@@ -19,6 +19,4 @@ console.log(true)
 console.log(+true)
 //output is 1
 
-let num1,num2,num3
-
 
